@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Router_dom/static/css/main.63eb64cf.css",
+    "main.js": "/Router_dom/static/js/main.4494bb61.js",
+    "static/media/react1.png": "/Router_dom/static/media/react1.c21bd8664bc13b98204c.png",
+    "static/media/reacty.jpg": "/Router_dom/static/media/reacty.5d2e6e07280a21f9af58.jpg",
+    "static/media/react2.png": "/Router_dom/static/media/react2.ef04e54dcedf351624f0.png",
+    "static/media/reacti.webp": "/Router_dom/static/media/reacti.3cdccc18dfa452457c3f.webp",
+    "static/media/reactb.webp": "/Router_dom/static/media/reactb.3ae1f7b45b0777e3008f.webp",
+    "static/media/react6.jpg": "/Router_dom/static/media/react6.1b3d73996c7849bc091c.jpg",
+    "static/media/react3.jpg": "/Router_dom/static/media/react3.482f0d73b01c5e3fbfe9.jpg",
+    "index.html": "/Router_dom/index.html",
+    "main.63eb64cf.css.map": "/Router_dom/static/css/main.63eb64cf.css.map",
+    "main.4494bb61.js.map": "/Router_dom/static/js/main.4494bb61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63eb64cf.css",
+    "static/js/main.4494bb61.js"
+  ]
+}
